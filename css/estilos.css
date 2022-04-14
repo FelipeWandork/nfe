@@ -1,0 +1,41 @@
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.btn-opcao {
+	width: 250px;
+	margin: 10px;
+}
+
+.topo {
+	background: -webkit-linear-gradient(#69c,#369); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#69c,#369); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#69c,#369); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#69c,#369); /* Standard syntax */
+	font-size:11px;
+	color: white;
+}
+
+#formulario_enviar_post {
+	display: none;	
+}
+
+#relatorio_xml {
+	display: none;	
+}
+
+#exportacao_xml {
+	display: none;	
+}
+
+#exportacao_massa {
+	display: none;	
+}
+
+#menu-exportacao {
+	display: none;	
+}

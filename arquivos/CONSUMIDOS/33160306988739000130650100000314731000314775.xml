@@ -1,0 +1,187 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+  <NFe>
+    <infNFe Id="NFe33160306988739000130650100000314731000314775" versao="3.10">
+      <ide>
+        <cUF>33</cUF>
+        <cNF>00031477</cNF>
+        <natOp>Venda de Mercadoria</natOp>
+        <indPag>0</indPag>
+        <mod>65</mod>
+        <serie>10</serie>
+        <nNF>31473</nNF>
+        <dhEmi>2016-03-01T09:08:23-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>3302908</cMunFG>
+        <tpImp>4</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>5</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <procEmi>0</procEmi>
+        <verProc>MercadoLogic v1.0.11</verProc>
+      </ide>
+      <emit>
+        <CNPJ>06988739000130</CNPJ>
+        <xNome>MERCADO FRACISQUINI LTDA</xNome>
+        <xFant>SUPERMERCADO PORTELENSE</xFant>
+        <enderEmit>
+          <xLgr>RUA DR. OSORIO DE ALMEIDA</xLgr>
+          <nro>266</nro>
+          <xBairro>GOVERNADOR PORTELA</xBairro>
+          <cMun>3302908</cMun>
+          <xMun>MIGUEL PEREIRA</xMun>
+          <UF>RJ</UF>
+          <CEP>26910000</CEP>
+          <fone>2424842615</fone>
+        </enderEmit>
+        <IE>77800808</IE>
+        <CRT>3</CRT>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>20628</cProd>
+          <cEAN>7896066301778</cEAN>
+          <xProd>PAO WICKB FORMA INTE</xProd>
+          <NCM>19059010</NCM>
+          <CFOP>5405</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>6.1000</vUnCom>
+          <vProd>6.10</vProd>
+          <cEANTrib>7896066301778</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>6.10</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>6.10</vBC>
+              <pPIS>1.650</pPIS>
+              <vPIS>0.10</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>6.10</vBC>
+              <pCOFINS>7.600</pCOFINS>
+              <vCOFINS>0.46</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>2460</cProd>
+          <cEAN>7897001010014</cEAN>
+          <xProd>OLEO SOJA COCAMAR 90</xProd>
+          <NCM>15079011</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>3.6900</vUnCom>
+          <vProd>3.69</vProd>
+          <cEANTrib>7897001010014</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>3.69</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS40>
+              <orig>0</orig>
+              <CST>40</CST>
+            </ICMS40>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0</vICMSDeson>
+          <vBCST>0</vBCST>
+          <vST>0</vST>
+          <vProd>9.79</vProd>
+          <vFrete>0</vFrete>
+          <vSeg>0</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0</vII>
+          <vIPI>0</vIPI>
+          <vPIS>0.10</vPIS>
+          <vCOFINS>0.46</vCOFINS>
+          <vOutro>0</vOutro>
+          <vNF>9.79</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+      </transp>
+      <pag>
+        <tPag>01</tPag>
+        <vPag>9.79</vPag>
+      </pag>
+      <infAdic>
+        <infCpl>Total recebido: R$ 20.00. Troco: R$ 10.21</infCpl>
+      </infAdic>
+    </infNFe>
+    <infNFeSupl>
+      <qrCode>http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?chNFe=33160306988739000130650100000314731000314775&amp;nVersao=100&amp;tpAmb=1&amp;dhEmi=323031362d30332d30315430393a30383a32332d30333a3030&amp;vNF=9.79&amp;vICMS=0.00&amp;digVal=726f37446d586c6f426b477654764f53687449494f4f775a5079303d&amp;cIdToken=000001&amp;cHashQRCode=805E7214101D0C4D4DB1BC74B03A9F4268D22D12</qrCode>
+    </infNFeSupl>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe33160306988739000130650100000314731000314775">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>ro7DmXloBkGvTvOShtIIOOwZPy0=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>MP+VC1WK62zdIsR+mfbLtdeOeAKoIqQjzkS0wvc1kl7C81qZhAO436F7lMlARjHmWEpYwXELGj6cHKMobHsg9eTe9wlDOBaBbEBAP2NlicdcaC5HAoFG7YRLOtIda0/MkY1PV33mG/GLoaqdweuTg1pHRLQQU+KZ0I1XYialxTinYdsbxx2/Qwe+WjM9oj5909XZ5GekaWYhdX1SRiCD8s7Cz1DC03b0Ri6+BPuZ1AFywhdBKV1GvnwdEOxXpHP0HbuQULuC0YFbkqRyHn9MSx/qLrTsLJCipG2FhXr3uPknYesuL5fokTEgFK9E7F/WU6kyzn7zEzlSRm7UvEzmtg==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIIVDCCBjygAwIBAgIQTfczk/nJ1ejhA4MJiZ0J7jANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc0MB4XDTE1MTEyNjAwMDAwMFoXDTE2MTEyNDIzNTk1OVowgfIxCzAJBgNVBAYTAkJSMRMwEQYDVQQKFApJQ1AtQnJhc2lsMQswCQYDVQQIEwJSSjEXMBUGA1UEBxQOTUlHVUVMIFBFUkVJUkExNjA0BgNVBAsULVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxQNUkZCIGUtQ05QSiBBMTEiMCAGA1UECxQZQXV0ZW50aWNhZG8gcG9yIEFSIEZBQ0VSSjE0MDIGA1UEAxMrTUVSQ0FETyBGUkFOQ0lTUVVJTkkgTFREQSBNRTowNjk4ODczOTAwMDEzMDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJLig8xea2fSze4IrCACps8GDxkaaxhjJr6+NH7noIG2dvn1AIVfG5yQTdiE4Hy4PV3zHdLLydR3ta3stE9NuZ0+cQWXJUzHLtY91+HBt3iwitWj01H4m1pJ9ywbKv9ugGeQcmK1MH3ZYH5qVnwtBuTaDTZTVFIpyTuTcYxsTVokzE4vbS/l7Or9ttsXTso5iHteumQpgqri9lKFdWMaJcehHy/ZFQRQ0naVWxk/77K01hUJBpbnRhXkVG+VWm9ASuDrTYDmKWpHkjVzjcfFMlYi1PumvjVDeNWrlGZ1lCPRLevvzxmdSBsLHR0kBV/jnGAUYiWEL+xvIZGlr189mMsCAwEAAaOCA10wggNZMIHCBgNVHREEgbowgbegPQYFYEwBAwSgNAQyMTUwMjE5NjY4NDYyNTU5Nzc0OTAwMDAwMDAwMDAwMDAwMDAwMDY3ODYyNzU1RElDUkqgIgYFYEwBAwKgGQQXQU5HRUxBIFRPU0NBTk8gQ09VQ0VJUk+gGQYFYEwBAwOgEAQOMDY5ODg3MzkwMDAxMzCgFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgR5uaWNvbGVAbnNhY29udGFiaWxpZGFkZS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQukerWbeWyWYLcOIUpdjQWVjzQPjAOBgNVHQ8BAf8EBAMCBeAwfwYDVR0gBHgwdjB0BgZgTAECAQwwajBoBggrBgEFBQcCARZcaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQ2VydGlzaWduX1JGQi9EUENfQUNfQ2VydGlzaWduX1JGQi5wZGYwggEWBgNVHR8EggENMIIBCTBXoFWgU4ZRaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNC9MYXRlc3RDUkwuY3JsMFagVKBShlBodHRwOi8vaWNwLWJyYXNpbC5vdXRyYWxjci5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzQvTGF0ZXN0Q1JMLmNybDBWoFSgUoZQaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0NlcnRpc2lnbi9BQ0NlcnRpc2lnblJGQkc0L0xhdGVzdENSTC5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGbBggrBgEFBQcBAQSBjjCBizBfBggrBgEFBQcwAoZTaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9jZXJ0aWZpY2Fkb3MvQUNfQ2VydGlzaWduX1JGQl9HNC5wN2MwKAYIKwYBBQUHMAGGHGh0dHA6Ly9vY3NwLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBABETfa6UQjjBKjjFZahnL3q17uJaBanwWp1aUPxaHPRxUEtqbErWqLFpjH9qjeLN8/xHk+hV3u4g0ekSRjMOofvDM12Ka3QrMOYJvzBq3eHTJDCoidhIOtNfOeTMkfAUX92XEwNoG8+4AISqXZptjydsB+UFJOocvJtSFZxF1T7d+0X6ZmSG6YVhwdwEyxSnYRqnH6RHa+/JY7y2sO/WswtqxPqP+2j4Z9LSILAKPTjpbI3DvMVcjFmhbDPcl1Vor3NcTW5GKp7B53aDf4PIQ1dyj5GKIx4mLcX1k9WGbG6i77K6XnjzDuuqz180w8FFZZVdYk/8y6Wykk69AJ//0BomLxKbAUldCp3IwVIfoTH5Oczb5TwBa2rgBRoOPJw2LPQNal9iMs0HB7qgB+uUwDS79fuFTcjDqHXlwZPCBnvnyvX/yzCaqMr7IWtejW6CjeLcqlas2PuVbrI4hJB+uhyr58Gs7uvNx/aHLqckWyGi7Enn+PtTKVQq4tgvBflDuf/k1zHraE625fZ4EmUYq/LKDaW16sTXf+e9NAOwbX9UM+c6vxV7O7MPT7FnEhDNvB62kmcpzR4sSIlPJFHvJ1HZKsGVJZ1urup3pJ4ufbW03kpHfPR9Uf+dhoMjnk02l2eEegYAHH9GMORPjmWAx00EtAD9U+vNzHJb2BzesNRs</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" versao="3.10">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>SVRSnfce201601151956</verAplic>
+      <chNFe>33160306988739000130650100000314731000314775</chNFe>
+      <dhRecbto>2016-03-01T09:08:23-03:00</dhRecbto>
+      <nProt>333160051560405</nProt>
+      <digVal>ro7DmXloBkGvTvOShtIIOOwZPy0=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

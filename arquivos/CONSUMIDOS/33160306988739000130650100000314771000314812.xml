@@ -1,0 +1,250 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="3.10">
+  <NFe>
+    <infNFe Id="NFe33160306988739000130650100000314771000314812" versao="3.10">
+      <ide>
+        <cUF>33</cUF>
+        <cNF>00031481</cNF>
+        <natOp>Venda de Mercadoria</natOp>
+        <indPag>0</indPag>
+        <mod>65</mod>
+        <serie>10</serie>
+        <nNF>31477</nNF>
+        <dhEmi>2016-03-01T09:19:41-03:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>3302908</cMunFG>
+        <tpImp>4</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>2</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>1</indFinal>
+        <indPres>1</indPres>
+        <procEmi>0</procEmi>
+        <verProc>MercadoLogic v1.0.11</verProc>
+      </ide>
+      <emit>
+        <CNPJ>06988739000130</CNPJ>
+        <xNome>MERCADO FRACISQUINI LTDA</xNome>
+        <xFant>SUPERMERCADO PORTELENSE</xFant>
+        <enderEmit>
+          <xLgr>RUA DR. OSORIO DE ALMEIDA</xLgr>
+          <nro>266</nro>
+          <xBairro>GOVERNADOR PORTELA</xBairro>
+          <cMun>3302908</cMun>
+          <xMun>MIGUEL PEREIRA</xMun>
+          <UF>RJ</UF>
+          <CEP>26910000</CEP>
+          <fone>2424842615</fone>
+        </enderEmit>
+        <IE>77800808</IE>
+        <CRT>3</CRT>
+      </emit>
+      <det nItem="1">
+        <prod>
+          <cProd>9069</cProd>
+          <cEAN>7891079000229</cEAN>
+          <xProd>MASS INST NISSIN GAL</xProd>
+          <NCM>19023000</NCM>
+          <CFOP>5405</CFOP>
+          <uCom>UN</uCom>
+          <qCom>2.0000</qCom>
+          <vUnCom>1.4000</vUnCom>
+          <vProd>2.80</vProd>
+          <cEANTrib>7891079000229</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>2.0000</qTrib>
+          <vUnTrib>1.40</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>9070</cProd>
+          <cEAN>7891079000212</cEAN>
+          <xProd>MASS INST NISSIN GAL</xProd>
+          <NCM>19023000</NCM>
+          <CFOP>5405</CFOP>
+          <uCom>UN</uCom>
+          <qCom>2.0000</qCom>
+          <vUnCom>1.4000</vUnCom>
+          <vProd>2.80</vProd>
+          <cEANTrib>7891079000212</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>2.0000</qTrib>
+          <vUnTrib>1.40</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="3">
+        <prod>
+          <cProd>13707</cProd>
+          <cEAN>7896089011982</cEAN>
+          <xProd>CAFE PILAO 250GR</xProd>
+          <NCM>09012100</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>4.9500</vUnCom>
+          <vProd>4.95</vProd>
+          <cEANTrib>7896089011982</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>4.95</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS40>
+              <orig>0</orig>
+              <CST>40</CST>
+            </ICMS40>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="4">
+        <prod>
+          <cProd>4299</cProd>
+          <cEAN>7896101062015</cEAN>
+          <xProd>FEIJAO PRETO COMBRAS</xProd>
+          <NCM>07133329</NCM>
+          <CFOP>5102</CFOP>
+          <uCom>UN</uCom>
+          <qCom>1.0000</qCom>
+          <vUnCom>5.9800</vUnCom>
+          <vProd>5.98</vProd>
+          <cEANTrib>7896101062015</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>1.0000</qTrib>
+          <vUnTrib>5.98</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS>
+            <ICMS40>
+              <orig>0</orig>
+              <CST>40</CST>
+            </ICMS40>
+          </ICMS>
+          <PIS>
+            <PISNT>
+              <CST>06</CST>
+            </PISNT>
+          </PIS>
+          <COFINS>
+            <COFINSNT>
+              <CST>06</CST>
+            </COFINSNT>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0</vICMSDeson>
+          <vBCST>0</vBCST>
+          <vST>0</vST>
+          <vProd>16.53</vProd>
+          <vFrete>0</vFrete>
+          <vSeg>0</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0</vII>
+          <vIPI>0</vIPI>
+          <vPIS>0.00</vPIS>
+          <vCOFINS>0.00</vCOFINS>
+          <vOutro>0</vOutro>
+          <vNF>16.53</vNF>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>9</modFrete>
+      </transp>
+      <pag>
+        <tPag>01</tPag>
+        <vPag>16.53</vPag>
+      </pag>
+    </infNFe>
+    <infNFeSupl>
+      <qrCode>http://www4.fazenda.rj.gov.br/consultaNFCe/QRCode?chNFe=33160306988739000130650100000314771000314812&amp;nVersao=100&amp;tpAmb=1&amp;dhEmi=323031362d30332d30315430393a31393a34312d30333a3030&amp;vNF=16.53&amp;vICMS=0.00&amp;digVal=64757662564b435a4b54457761632b64616a4c6c6d5469494d2b633d&amp;cIdToken=000001&amp;cHashQRCode=CAAD2B6F36DF2D1BCEC0BB3CE3C37C5BB9246136</qrCode>
+    </infNFeSupl>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+        <Reference URI="#NFe33160306988739000130650100000314771000314812">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+          <DigestValue>duvbVKCZKTEwac+dajLlmTiIM+c=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>XNfqRaRbwXKodjdXKJ++/kiQ7t7v9wpi8gyhFQWmZ2J6lkP3o4gAL9wDi56S/2VHtRpys0ibIoIneIyQXTvKBiibg2oN1vMWK/QF54+eIEF/hVprigwD7uXdSauYywRnFome2xusy5Gaedjf9NR2rviW8Swd3CZuE81MQqIqfRTWOgKsv1To3Ep8K7QVec9A0rCnmI1vjY7e7f7vmG8kpXHA0+bOXOiLMVNDMQ5NLW4tV/uQN8Kn0GvjNqg5SGlg1HD0e6vWWyrUK8JHw0Rpji9m/qKMpc8aZoGHgvsS61KJ04f78BkNUNytpDk2vj+rzKNp4FU4ICvveipu/rWF7g==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIIVDCCBjygAwIBAgIQTfczk/nJ1ejhA4MJiZ0J7jANBgkqhkiG9w0BAQsFADB4MQswCQYDVQQGEwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBkYSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRwwGgYDVQQDExNBQyBDZXJ0aXNpZ24gUkZCIEc0MB4XDTE1MTEyNjAwMDAwMFoXDTE2MTEyNDIzNTk1OVowgfIxCzAJBgNVBAYTAkJSMRMwEQYDVQQKFApJQ1AtQnJhc2lsMQswCQYDVQQIEwJSSjEXMBUGA1UEBxQOTUlHVUVMIFBFUkVJUkExNjA0BgNVBAsULVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxQNUkZCIGUtQ05QSiBBMTEiMCAGA1UECxQZQXV0ZW50aWNhZG8gcG9yIEFSIEZBQ0VSSjE0MDIGA1UEAxMrTUVSQ0FETyBGUkFOQ0lTUVVJTkkgTFREQSBNRTowNjk4ODczOTAwMDEzMDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJLig8xea2fSze4IrCACps8GDxkaaxhjJr6+NH7noIG2dvn1AIVfG5yQTdiE4Hy4PV3zHdLLydR3ta3stE9NuZ0+cQWXJUzHLtY91+HBt3iwitWj01H4m1pJ9ywbKv9ugGeQcmK1MH3ZYH5qVnwtBuTaDTZTVFIpyTuTcYxsTVokzE4vbS/l7Or9ttsXTso5iHteumQpgqri9lKFdWMaJcehHy/ZFQRQ0naVWxk/77K01hUJBpbnRhXkVG+VWm9ASuDrTYDmKWpHkjVzjcfFMlYi1PumvjVDeNWrlGZ1lCPRLevvzxmdSBsLHR0kBV/jnGAUYiWEL+xvIZGlr189mMsCAwEAAaOCA10wggNZMIHCBgNVHREEgbowgbegPQYFYEwBAwSgNAQyMTUwMjE5NjY4NDYyNTU5Nzc0OTAwMDAwMDAwMDAwMDAwMDAwMDY3ODYyNzU1RElDUkqgIgYFYEwBAwKgGQQXQU5HRUxBIFRPU0NBTk8gQ09VQ0VJUk+gGQYFYEwBAwOgEAQOMDY5ODg3MzkwMDAxMzCgFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgR5uaWNvbGVAbnNhY29udGFiaWxpZGFkZS5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQukerWbeWyWYLcOIUpdjQWVjzQPjAOBgNVHQ8BAf8EBAMCBeAwfwYDVR0gBHgwdjB0BgZgTAECAQwwajBoBggrBgEFBQcCARZcaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMvQUNfQ2VydGlzaWduX1JGQi9EUENfQUNfQ2VydGlzaWduX1JGQi5wZGYwggEWBgNVHR8EggENMIIBCTBXoFWgU4ZRaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25SRkJHNC9MYXRlc3RDUkwuY3JsMFagVKBShlBodHRwOi8vaWNwLWJyYXNpbC5vdXRyYWxjci5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL0FDQ2VydGlzaWduUkZCRzQvTGF0ZXN0Q1JMLmNybDBWoFSgUoZQaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0NlcnRpc2lnbi9BQ0NlcnRpc2lnblJGQkc0L0xhdGVzdENSTC5jcmwwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIGbBggrBgEFBQcBAQSBjjCBizBfBggrBgEFBQcwAoZTaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9jZXJ0aWZpY2Fkb3MvQUNfQ2VydGlzaWduX1JGQl9HNC5wN2MwKAYIKwYBBQUHMAGGHGh0dHA6Ly9vY3NwLmNlcnRpc2lnbi5jb20uYnIwDQYJKoZIhvcNAQELBQADggIBABETfa6UQjjBKjjFZahnL3q17uJaBanwWp1aUPxaHPRxUEtqbErWqLFpjH9qjeLN8/xHk+hV3u4g0ekSRjMOofvDM12Ka3QrMOYJvzBq3eHTJDCoidhIOtNfOeTMkfAUX92XEwNoG8+4AISqXZptjydsB+UFJOocvJtSFZxF1T7d+0X6ZmSG6YVhwdwEyxSnYRqnH6RHa+/JY7y2sO/WswtqxPqP+2j4Z9LSILAKPTjpbI3DvMVcjFmhbDPcl1Vor3NcTW5GKp7B53aDf4PIQ1dyj5GKIx4mLcX1k9WGbG6i77K6XnjzDuuqz180w8FFZZVdYk/8y6Wykk69AJ//0BomLxKbAUldCp3IwVIfoTH5Oczb5TwBa2rgBRoOPJw2LPQNal9iMs0HB7qgB+uUwDS79fuFTcjDqHXlwZPCBnvnyvX/yzCaqMr7IWtejW6CjeLcqlas2PuVbrI4hJB+uhyr58Gs7uvNx/aHLqckWyGi7Enn+PtTKVQq4tgvBflDuf/k1zHraE625fZ4EmUYq/LKDaW16sTXf+e9NAOwbX9UM+c6vxV7O7MPT7FnEhDNvB62kmcpzR4sSIlPJFHvJ1HZKsGVJZ1urup3pJ4ufbW03kpHfPR9Uf+dhoMjnk02l2eEegYAHH9GMORPjmWAx00EtAD9U+vNzHJb2BzesNRs</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" versao="3.10">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>SVRSnfce201601151956</verAplic>
+      <chNFe>33160306988739000130650100000314771000314812</chNFe>
+      <dhRecbto>2016-03-01T09:19:41-03:00</dhRecbto>
+      <nProt>333160051570610</nProt>
+      <digVal>duvbVKCZKTEwac+dajLlmTiIM+c=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
